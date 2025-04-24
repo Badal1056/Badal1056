@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badal Jha</h1>
-<h3 align="center">A passionate Full Stack Developer | Java Enthusiast | UI Designer</h3>
+<h3 align="center">A Full Stack Developer | Java Enthusiast | UI Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Frontend+Passionate+%F0%9F%92%BB;Always+learning+something+new!+%F0%9F%93%9A" alt="Typing SVG" />
@@ -66,7 +66,7 @@
 <td align="center" valign="top">
   <img src="https://i.imgur.com/kCubyE5.gif" width="280" alt="Coding Gif"/>
   <p align="center"><em>"Turning coffee into code since 2021 ☕💻"</em></p>
-  <p align="center"><strong>Innovator • Learner • Creator • Explorer</strong></p>
+  <p align="center"><strong>Innovator</strong><br><strong>Learner</strong><br><strong>Creator</strong><br><strong>Explorer</strong></p>
 </td>
   </tr>
 </table>
