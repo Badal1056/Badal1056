@@ -65,6 +65,7 @@
 
 <td align="center" valign="top">
   <img src="https://i.imgur.com/kCubyE5.gif" width="280" alt="Coding Gif"/>
+  <p align="center"><em>"Turning coffee into code since 2021 ☕💻"</em></p>
 </td>
   </tr>
 </table>
