@@ -18,6 +18,10 @@
 
 ## 💼 Skills & Tools
 
+<table>
+  <tr>
+    <td>
+
 <h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
@@ -57,6 +61,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
+</td>
+
+<td align="center" valign="top">
+  <img src="https://imgur.com/a/JZqFXWO" width="280" alt="Coding Gif"/>
+</td>
+  </tr>
+</table>
 
 
 ---
