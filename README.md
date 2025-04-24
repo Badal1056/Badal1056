@@ -64,11 +64,10 @@
 </td>
 
 <td align="center" valign="top">
-  <img src="https://imgur.com/a/JZqFXWO" width="280" alt="Coding Gif"/>
+  <img src="https://i.imgur.com/kCubyE5.gif" width="280" alt="Coding Gif"/>
 </td>
   </tr>
 </table>
-
 
 ---
 
