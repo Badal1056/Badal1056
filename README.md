@@ -18,12 +18,19 @@
 
 ## 💼 Skills & Tools
 
-- **Programming Languages**: Java, SQL, JavaScript
-- **Frontend Technologies**: HTML5, CSS3, React.js, Bootstrap
-- **Backend Technologies**: Spring Boot, MySQL, PostgreSQL
-- **Tools & Platforms**: IntelliJ IDEA, Eclipse, Visual Studio Code, Android Studio
-- **Version Control**: Git
-- **Other**: Responsive Web Design, UI Animation, Netlify, GitHub Pages
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=java&logoColor=black" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
 
 ---
 
