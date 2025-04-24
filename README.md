@@ -66,7 +66,7 @@
 <td align="center" valign="top">
   <img src="https://i.imgur.com/kCubyE5.gif" width="280" alt="Coding Gif"/>
   <p align="center"><em>"Turning coffee into code since 2021 ☕💻"</em></p>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%92%BB-blue?style=for-the-badge" alt="Full Stack Badge" />
+  <p align="center"><strong>Innovator • Learner • Creator • Explorer</strong></p>
 </td>
   </tr>
 </table>
