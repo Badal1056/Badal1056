@@ -64,12 +64,14 @@
 </td>
 
 <td align="center" valign="middle">
-  <img src="https://i.imgur.com/kCubyE5.gif" width="280" alt="Coding Gif"/>
+  <img src="https://i.imgur.com/kCubyE5.gif" width="280" alt="Coding Gif"/><br>
   <p align="center">
-    <strong>Innovator</strong><br>
-    <strong>Learner</strong><br>
-    <strong>Creator</strong><br>
-    <strong>Explorer</strong>
+    <strong>- Innovator</strong><br>
+    <strong>- Learner</strong><br>
+    <strong>- Creator</strong><br>
+    <strong>- Explorer</strong><br>
+    <strong>- Collaborator</strong><br>
+    <strong>- Visionary</strong><br>
   </p>
 </td>
   </tr>
