@@ -69,7 +69,7 @@
 </td>
 
 <td align="center" valign="middle">
-  <img src="https://i.imgur.com/kCubyE5.gif" width="280" alt="Coding Gif"/><br>
+  <img src="https://i.imgur.com/kCubyE5.gif" width="280" alt="Coding Gif"/><br><br>
   <p align="center">
     <strong>- Innovator</strong><br>
     <strong>- Learner</strong><br>
