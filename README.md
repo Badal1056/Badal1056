@@ -63,10 +63,14 @@
 
 </td>
 
-<td align="center" valign="top">
+<td align="center" valign="middle">
   <img src="https://i.imgur.com/kCubyE5.gif" width="280" alt="Coding Gif"/>
-  <p align="center"><em>"Turning coffee into code since 2021 ☕💻"</em></p>
-  <p align="center"><strong>Innovator</strong><br><strong>Learner</strong><br><strong>Creator</strong><br><strong>Explorer</strong></p>
+  <p align="center">
+    <strong>Innovator</strong><br>
+    <strong>Learner</strong><br>
+    <strong>Creator</strong><br>
+    <strong>Explorer</strong>
+  </p>
 </td>
   </tr>
 </table>
