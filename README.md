@@ -18,6 +18,8 @@
 - 🛍️ [**ShopSphere**](https://shopsphere-badaljha.netlify.app/) – Fully responsive e-commerce platform
 - 📊 [**Sorting Visualizer**](https://badal1056.github.io/Sorting-Visualizer/) – Visual learning for classic algorithms
 - 📋 [**My-Task App**](https://github.com/Badal1056/MyTask-Just_Note_it) - Write your daily tasks
+- 🎥 [**AniPeek**](https://anipeek.vercel.app/) - Discover trending, airing, and upcoming anime
+- 🧮 [**BMI Calculator**](https://badal1056.github.io/BMI-Calculator/) - Instantly calculate your Body Mass Index
 
 ---
 
