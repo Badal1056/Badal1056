@@ -86,15 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Badal1056&show_icons=true&theme=radical" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badal1056&theme=radical" height="180" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
