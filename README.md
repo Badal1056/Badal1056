@@ -95,14 +95,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Badal1056&theme=onedark&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
