@@ -14,6 +14,7 @@
 
 ## 🚀 Projects
 
+- 🧑🏻‍💻 [**My Portfolio**](https://badalportfolio.vercel.app/) – To know me in detail 
 - ✨ [**Travel Website**](https://badal1056.github.io/travelwebsite/) – Explore stunning destinations  
 - 🛍️ [**ShopSphere**](https://shopsphere-badaljha.netlify.app/) – Fully responsive e-commerce platform
 - 📊 [**Sorting Visualizer**](https://badal1056.github.io/Sorting-Visualizer/) – Visual learning for classic algorithms
